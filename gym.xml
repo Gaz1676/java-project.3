@@ -1,0 +1,56 @@
+<object-stream>
+  <list>
+    <models.StudentMember>
+      <email>tim@gmail.com</email>
+      <name>Tim Robins</name>
+      <address>12 Qwertyville Manor, Waterford</address>
+      <gender>M</gender>
+      <height>1.5</height>
+      <startingWeight>78.0</startingWeight>
+      <chosenPackage>s</chosenPackage>
+      <hashmap>
+        <entry>
+          <date>2017-05-22 00:35:40.916 UTC</date>
+          <models.Assessment>
+            <trainer>
+              <email>gaz@gmail.com</email>
+              <name>Gary Fleming</name>
+              <address>34 Oaksfield Lane, Waterford</address>
+              <gender>M</gender>
+              <speciality>Boxing</speciality>
+            </trainer>
+            <weight>80.0</weight>
+            <chest>32.0</chest>
+            <thigh>22.0</thigh>
+            <upperArm>18.0</upperArm>
+            <waist>32.0</waist>
+            <hips>34.0</hips>
+            <hashmap/>
+            <comment></comment>
+          </models.Assessment>
+        </entry>
+      </hashmap>
+      <studentId>20019497</studentId>
+      <collegeName>WIT</collegeName>
+    </models.StudentMember>
+    <models.PremiumMember>
+      <email>si@gmail.com</email>
+      <name>Siobhan</name>
+      <address>wit</address>
+      <gender>F</gender>
+      <height>1.6</height>
+      <startingWeight>50.0</startingWeight>
+      <chosenPackage>p</chosenPackage>
+      <hashmap/>
+    </models.PremiumMember>
+  </list>
+  <list>
+    <models.Trainer>
+      <email>gaz@gmail.com</email>
+      <name>Gary Fleming</name>
+      <address>34 Oaksfield Lane, Waterford</address>
+      <gender>M</gender>
+      <speciality>Boxing</speciality>
+    </models.Trainer>
+  </list>
+</object-stream>
