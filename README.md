@@ -19,7 +19,7 @@ The following processing is required in this menu system:
     
 4. Once logged in, display a trainer menu for the trainer and a member menu for the member.
 
-    a. The trainer menu should allow the trainer to:
+    * The trainer menu should allow the trainer to:
    
         i. Add a new member
         
@@ -37,7 +37,7 @@ The following processing is required in this menu system:
         
   //////////////////////////////////////////////////////////////////////
   
-    b. The member menu should allow the member to:
+    * The member menu should allow the member to:
     
         i. View their profile
 
