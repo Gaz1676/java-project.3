@@ -8,11 +8,11 @@ The following processing is required in this menu system:
 
 3. Ask the user if they are a member(m) or a trainer(t).
 
-    a. If the user selected to login, verify that the email entered is stored in the
+    * If the user selected to login, verify that the email entered is stored in the
     appropriate arraylist i.e. the members or trainers list. If the email doesn’t exist,
     print out “access denied” to the console and exit the program.
     
-    b. If the user selected to register, ask the user to enter the required details for the
+    * If the user selected to register, ask the user to enter the required details for the
     member/trainer. If a user enters an email that is already used in the system (for 
     either trainers/members), ask let them know it is an invalid email and ask them to
     enter a new one.
